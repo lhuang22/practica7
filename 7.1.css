@@ -1,0 +1,32 @@
+.bloc1{
+    background-color: rgb(57, 107, 171);/*Color*/
+    width: 160px;/*Amplada*/
+    height: 120px;/*Altura*/
+    margin-top: 40px;/*Marge desde amunt*/
+    margin-left: 20px;/*Marge de l'esquerra*/
+    position: absolute;/*Posició absoluta*/
+    z-index: 100;/*Posicionament*/
+}
+.bloc2{
+    background-color: yellow;
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 60px;/*Marge d'abaix*/
+    margin-left: 20px;
+}
+.bloc3{
+    background-color: red;
+    width: 160px;
+    height: 120px;
+    margin-top: 140px;
+    margin-left: 100px;
+    position: absolute;
+}
+.bloc4{
+    background-color: aquamarine;
+    width: 40px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 100px;
+}

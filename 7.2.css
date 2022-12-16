@@ -1,0 +1,17 @@
+img{
+    width: 50%;/*Tamany*/
+    height: auto;/*Altura*/
+    opacity: 0.3;/*Transparència*/
+}
+.text1{
+    position: absolute;/*Posició*/
+    bottom: 30%;/*abaix*/
+    left: 1%;/*Esquerre*/
+    font-size: 18px;/*Tamnay de la lletra*/
+}
+.text2{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: 18px;
+}
